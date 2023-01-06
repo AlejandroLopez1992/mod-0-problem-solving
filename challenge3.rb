@@ -8,7 +8,7 @@
 
 # pseudocode- .captialize only Upcases the first word in the string. First separate the string
 # into an array of separate strings each containing one word with .split. Next you can upcase each indivudual string
-# created with .map(&:capitalize). .map will return a new array with each work capitalized
+# created with .map(&:capitalize). .map will return a new array with each word capitalized
 # .join function can be used to convert the new array back into a string of all the upcased words.
 
 sentence = "the boy walked into the room and saw a big bird"
